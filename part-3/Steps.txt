@@ -1,3 +1,9 @@
 *Now we will use both jenkins and Docker to automate the process of ci/cd*
 
-->
+->First We Will Build a Docker image
+
+-> Then We Will Setup Jekins
+
+-> We Will Build and Publish Docker image using jenkins
+
+-> Automate updates to sync with every ne commit in Git Repository
