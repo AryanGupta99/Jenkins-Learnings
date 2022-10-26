@@ -1,0 +1,11 @@
+*The continuous integration setup consists of* 
+
+->running unit tests
+
+->building the Docker image that we use to build our service
+
+->running the build container and compiling our service
+
+->building the Docker image that we run and deploy
+
+->pushing the final image to a Docker registry
