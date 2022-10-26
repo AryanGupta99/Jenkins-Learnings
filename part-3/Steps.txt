@@ -1,0 +1,3 @@
+*Now we will use both jenkins and Docker to automate the process of ci/cd*
+
+->
